@@ -1,3 +1,4 @@
+![logo](https://github.com/subhasis070/subhasis070/blob/main/profile.mp4)
 <h1 align="center">Hi 👋, I'm Subhasis Sankhua</h1>
 <h3 align="center">"Aspiring data science undergrad passionate about uncovering insights through data. Currently honing skills in statistical analysis, ML, and visualization. Eager to tackle real-world challenges and make meaningful contributions to the field."</h3>
 
