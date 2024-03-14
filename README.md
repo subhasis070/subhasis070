@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Subhasis Sankhua</h1>
 <h3 align="center">"Aspiring data science undergrad passionate about uncovering insights through data. Currently honing skills in statistical analysis, ML, and visualization. Eager to tackle real-world challenges and make meaningful contributions to the field."</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
+<img align=“right” alt=“coding” width=“400” src=“https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhasis070&label=Profile%20views&color=0e75b6&style=flat" alt="subhasis070" /> </p>
 
